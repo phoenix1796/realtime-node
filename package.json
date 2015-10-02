@@ -1,0 +1,23 @@
+{
+  "name": "realtime-node",
+  "version": "1.0.0",
+  "description": "Dive into realtime web with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phoenix1796/realtime-node.git"
+  },
+  "keywords": [
+    "realtime",
+    "node"
+  ],
+  "author": "phoenix1796",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phoenix1796/realtime-node/issues"
+  },
+  "homepage": "https://github.com/phoenix1796/realtime-node#readme"
+}
